@@ -25,6 +25,8 @@ import com.iflytek.cloud.SpeechUtility;
 import com.iflytek.cloud.ui.RecognizerDialog;
 import com.iflytek.cloud.ui.RecognizerDialogListener;
 
+
+
 public class Main1Activity extends Activity {
 
 	private ListView lvChat;
